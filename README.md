@@ -117,7 +117,7 @@ When I asked him some questions,
 he said "Das ist interessant. Denken Sie nach!" (That's interesting. Think further),
 and lent me a lot of relevant offprints from journals.
 This "Denken Sie nach" was also a lesson that I got from him for the first time in my life.
-At that time Frobenius was studying on group characters.
+At that time Frobenius was studying the theory of group characters.
 But he spoke nothing about group characters in his lectures, seminars, and colloquiums.
 That is, he didn't seriously take not only monkey-like Japanese but also German students.
 He didn't exhibit his treasures to students.
@@ -196,10 +196,10 @@ In such an era I could idle my time away.
 You may think that I came up with the "class field theory" during those idle days.
 But the truth is not so simple.
 
-In 1914, World War One began. The war gave me a good stimulus, or a negative stimulus.
+In 1914, World War One began. The war gave me a good stimulus in the negative direction.
 That is, books stopped coming from Europe.
 I heard someone say that it would be impossible to study in Japan without books from Germany.
-News papers pitied and ridiculed those scholars who couldn't study any more.
+Newspapers pitied and ridiculed those scholars who couldn't study any more.
 Those who would continue to study without Western books must stand on their own feet.
 If it had not been for World War One, I would have ended with no work.
 Incidentally, I tell you an episode which I now happened to remember.
@@ -230,7 +230,7 @@ Disregarding the condition of unramification,
 I discovered that an Abelian extension induces a class field.
 This discovery is now reformulated as the "Umkehrsatz" (reverse theorem) by Hasse.
 At that time, this theorem was so unexpected to me that I thought I made a mistake.
-So I first tried to spot where I made a mistake. I was a little nervous then.
+So I first tried to spot where I made a mistake. I felt I got close to nervous breakdown then.
 I often had a dream in which I solved this problem.
 But when I woke up, I found myself not solving it at all.
 At last, I couldn't find any counterexample which would disprove my discovery.
@@ -318,7 +318,7 @@ Concretion and abstraction seem opposite to each other,
 but are both necessary for the unification of mathematics.
 What mathematicians must avoid is shallow- and narrow-mindedness.
 
-As I talked long on "retrospect", the remaining time for "prospect" gets shorter.
+As I have long talked on "retrospect", the remaining time for "prospect" gets shorter.
 But, rather than to tell a vague prospect, let me continue my retrospect a little longer.
 Around 1930, several top-class mathematicians from the West visited Japan
 one after another within a few years. I still remember their visit clearly.
@@ -334,8 +334,8 @@ There he said to me "Japanese mathematics will grow a lot in twenty years."
 I asked him why. He said "Look at America. Twenty years ago, there was nothing of
 mathematics in America. But today it's growing fast. Also in Japan,
 mathematics will surely grow a lot in twenty years..."
-Although it sounds like a weak prediction, he possibly saw some good points
-in Japanese mathematicians.
+It sounds like a weak prediction, but he predicted so probably because
+he saw some good points in Japanese mathematicians.
 
 Another visitor, who also ate fried salmon, sent me a letter after leaving Japan.
 He wrote that he was deeply impressed by Japanese mathematics,
@@ -349,7 +349,7 @@ I think that their observations may well represent the prospect for our future.
 Watching the brilliant activities of young mathematicians,
 I now have the greatest pleasure of expecting a bright future of Japanese mathematics.
 
-(speech at mathematical colloquium, University of Tokyo)
+(speech at mathematical colloquium, University of Tokyo, December 7th, 1940)
 
 ---
 
